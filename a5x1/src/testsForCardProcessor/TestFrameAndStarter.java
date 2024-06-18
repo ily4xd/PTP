@@ -81,7 +81,8 @@ public class TestFrameAndStarter {
 
 		//----------------------------------------------------------------------// "MARKIERUNG" ;-)
 		// Ab hier dürfen Sie eigene Tests ergänzen
-		cardProcessor.reverseOrder( deck, CJ, false );
+		// cardProcessor.reverseOrder( deck, CJ, false );
+		
 		/*cardProcessor.reverseOrder ( deck, null, true);
 		cardProcessor.reverseOrder ( null, DJ, true);
 		cardProcessor.reverseOrder ( null, null, true);*/
